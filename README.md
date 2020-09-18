@@ -23,7 +23,7 @@ package main
 import (
 	"fmt"
 	"github.com/coreos/etcd/clientv3"
-	go_task "go-task"
+	go_task "github.com/pyihe/go-task"
 	"time"
 )
 
